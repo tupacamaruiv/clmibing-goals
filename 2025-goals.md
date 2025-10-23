@@ -2,7 +2,7 @@
 
 ## Experiences 
 
-- [ ] Make at least one outdoor climbing trip (New River Gorge). 
+- [ ] Make at least one outdoor climbing trip (New River Gorge).  
 
 ## Performance 
 
