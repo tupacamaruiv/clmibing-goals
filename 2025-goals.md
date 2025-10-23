@@ -1,6 +1,6 @@
 # 2025 Goals 
 
-## Experience 
+## Experiences 
 
 - Make at least one outdoor climbing trip (New River Gorge). 
 
