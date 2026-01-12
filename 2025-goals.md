@@ -1,14 +1,16 @@
-# 2025 Goals 
+# 2026 Goals 
 
 ## Experiences 
 
-- [ ] Make at least one outdoor climbing trip (New River Gorge).  
+- [ ] Make at least one big outdoor climbing trip (New River Gorge).  
+- [ ] Make a trip to the Blue Ridge Boulders.
+- [ ] Learn the local RVA bouldering scene.
 
 ## Performance 
 
 - [ ] Climb at least one V6 on Triangle Boulders. 
-- [ ] 5x5. Send 5 red tag climbs (V6-V8) at Peak Boulders in 5 sessions or less. 
-- [ ] TBD: Board specific goal (e.g., climb V4 on the Moon Board).
+- [ ] Send more red tag climbs (V6-V8) at Peak Boulders with a focus on good tactics and faster sends. 
+- [ ] TBD: Board specific goals (e.g., climb V4 on the Moon Board).
 
 ## Training & Strength 
 
